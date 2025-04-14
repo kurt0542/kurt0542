@@ -5,7 +5,7 @@
 
 <h3 align="center">📬 Contact</h3>
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:aquinokm@kurtaquino0542@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
