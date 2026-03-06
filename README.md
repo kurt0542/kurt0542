@@ -57,14 +57,5 @@
   </a>
 </p>
 
-<h3 align="center">📜 Certifications</h3>
-<p align="center">
-  <a href="https://www.credly.com/badges/3c590d80-1923-40a9-9331-9bd96dd29e9d/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/kurt0542/kurt0542/8a9fde358c756504c98927a61563830c08498bd5/assets/comptia-it-fundamentals-itf-certification.1.png" alt="CompTIA IT Fundamentals+" width="150" height="150"/>
-  </a>
-  <a href="https://www.credly.com/badges/2858400e-3423-468e-a9a3-3407ce9e0ac1/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/kurt0542/kurt0542/8a9fde358c756504c98927a61563830c08498bd5/assets/microsoft-office-specialist-excel-associate-microsoft-365-apps.png" alt="Microsoft Excel Associate (Microsoft 365 Apps)" width="150" height="150"/>
-  </a>
-</p>
-
-
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
