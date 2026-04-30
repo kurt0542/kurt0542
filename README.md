@@ -59,8 +59,8 @@
 <h3 align="center">Certifications</h3>
 <p align="center">
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/badges/70993ebe-dfbe-410d-a61f-4e73021290a9" title="IT Specialist - Databases"><img src="https://images.credly.com/size/80x80/images/49a492cd-5f72-4c9d-aafa-06649e4853fb/MicrosoftTeams-image__5_.png" alt="IT Specialist - Databases" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/2858400e-3423-468e-a9a3-3407ce9e0ac1" title="Microsoft Office Specialist: Excel Associate (Microsoft 365 Apps)"><img src="https://images.credly.com/size/80x80/images/af151b3d-9453-48a8-8d22-5b9fc54d2b43/image.png" alt="Microsoft Office Specialist: Excel Associate (Microsoft 365 Apps)" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/3c590d80-1923-40a9-9331-9bd96dd29e9d" title="CompTIA IT Fundamentals+ (ITF+) Certification"><img src="https://images.credly.com/size/80x80/images/a49be93a-34ff-4224-996c-b2c976a5dc9d/blob" alt="CompTIA IT Fundamentals+ (ITF+) Certification" width="80" height="80"></a>
+[![IT Specialist - Databases](https://images.credly.com/size/80x80/images/49a492cd-5f72-4c9d-aafa-06649e4853fb/MicrosoftTeams-image__5_.png)](https://www.credly.com/badges/70993ebe-dfbe-410d-a61f-4e73021290a9)
+[![Microsoft Office Specialist: Excel Associate (Microsoft 365 Apps)](https://images.credly.com/size/80x80/images/af151b3d-9453-48a8-8d22-5b9fc54d2b43/image.png)](https://www.credly.com/badges/2858400e-3423-468e-a9a3-3407ce9e0ac1)
+[![CompTIA IT Fundamentals+ (ITF+) Certification](https://images.credly.com/size/80x80/images/a49be93a-34ff-4224-996c-b2c976a5dc9d/blob)](https://www.credly.com/badges/3c590d80-1923-40a9-9331-9bd96dd29e9d)
 <!--END_SECTION:badges-->
 </p>
