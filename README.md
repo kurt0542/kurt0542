@@ -88,17 +88,17 @@
 </details>
 <h3>📊 GitHub Statistics</h3>
 
-<p align="center">
-  <a href="https://github.com/kurt0542">
+<div align="center">
+  <a href="https://github.com/kurt0542" style="display: inline-block; margin: 5px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kurt0542&theme=2077" height="165" alt="Top Languages by Repo" />
   </a>
-  <a href="https://git.io/streak-stats">
+  <a href="https://git.io/streak-stats" style="display: inline-block; margin: 5px;">
     <img src="https://streak-stats.demolab.com?user=kurt0542&theme=dark&background=031326&fire=FF0055&ring=FF0055&currStreakNum=FF0055&sideLabels=FF0055&dates=A0A0A0&hide_border=true&short_numbers=true" height="165" alt="GitHub Streak" />
   </a>
-  
-  <br><br>
-  
-  <a href="https://github.com/kurt0542">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurt0542&theme=2077" height="185" alt="Profile Details" />
-  </a>
-</p>
+
+  <div align="center" style="width: 100%;">
+    <a href="https://github.com/kurt0542">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurt0542&theme=2077" height="185" alt="Profile Details" />
+    </a>
+  </div>
+</div>
